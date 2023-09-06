@@ -1,0 +1,55 @@
+
+------------------------
+Doctor name:chandra_doc
+Roll Number: CB.EN.U4AIE22165
+Name: IPPATAPU VENKATA SRICHANDRA
+Department: AIE
+Class Advisor: SREE LAKSHMI K
+Date: 14-7-2023
+Remarks: GOOD
+
+------------------------
+
+------------------------
+Doctor name:uidoc
+Roll Number: 22164
+Name: suriya k p
+Department: AIE
+Class Advisor: sree lakshmi k
+Date: 14-7-2023
+Remarks: good
+
+------------------------
+
+------------------------
+Doctor name:chandra_doc
+Roll Number: CB.EN.U4AIE22165
+Name: IPPATAPU VENKATA SRICHANDRA
+Department: AIE
+Class Advisor: SREE LAKSHMI K
+Date: 22-07-2023
+Remarks: GOOD
+
+------------------------
+
+------------------------
+Doctor name:chandra_doc
+Roll Number: CB.EN.U4AIE22165
+Name: IPPATAPU VENKATA SRICHANDRA
+Department: AIE
+Class Advisor: SREE LAKSHMI K
+Date: 22-07-2023
+Remarks: GOOD
+
+------------------------
+
+------------------------
+Doctor name:chandra_doc
+Roll Number: CB.EN.U4AIE22165
+Name: IPPATAPU VENKATA SRICHANDRA
+Department: AIE
+Class Advisor: SREE LAKSHMI K
+Date: 22-07-2023
+Remarks: GOOD
+
+------------------------
